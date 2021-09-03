@@ -1,0 +1,16 @@
+PODS:
+  - YZHFactory (1.1.0)
+
+DEPENDENCIES:
+  - YZHFactory
+
+SPEC REPOS:
+  trunk:
+    - YZHFactory
+
+SPEC CHECKSUMS:
+  YZHFactory: ad1a7317d5fba66c93eb8a969cb5de68208289f3
+
+PODFILE CHECKSUM: 111e16e240c87d89a93da987a72e8da3f8b7ed92
+
+COCOAPODS: 1.10.1
